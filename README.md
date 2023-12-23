@@ -1,5 +1,5 @@
-# CCNA
-### Project :
+ 
+# Project details :
 > [!NOTE]
 > First Study **Case Building** of the two Data Centers For Greenwood Group 
 
