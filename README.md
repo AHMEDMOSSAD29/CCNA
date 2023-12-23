@@ -19,12 +19,12 @@ VI - All PCs should be able to ping each other.
 
 VII - All Routing should be only using Static Routes.
 
-VIII - WAN IP Ranges **192.168.10.0/24** To be used for all WAN Point to Point connections.
+VIII - WAN IP Ranges **`192.168.10.0/24`** To be used for all WAN Point to Point connections.
 
 IX - WAN Routers can be considered as redundant connections with Active/Active/Active or Active/Backup1/Backup2.
 ## Cairo Data Center Details :
   
-IP address Rang ==> **172.16.0.0/16**
+IP address Rang ==> **`172.16.0.0/16`**
 
 DHCP Server1 should be in a separate Subnet /26 [IP static configuration]
 
@@ -44,7 +44,7 @@ All gateways has to be configured on the Core switch level
 
 ## Alex Data Center Details :
 
-IP address Range ==> **172.17.0.0/16**
+IP address Range ==> **`172.17.0.0/16`**
 
 DHCP Server2 should be in a separate Subnet /26 [IP static configuration]
 
