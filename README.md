@@ -40,6 +40,8 @@ PC01 and PC2 should be able to access WEB server via DNS name FQDN
 
 All gateways has to be configured on the Core switch level
 
+![](pic/cairo.png)
+
 ## Alex Data Center Details :
 
 IP address Range ==> **172.17.0.0/16**
@@ -62,4 +64,4 @@ PC03 should be able to communicate with PC01 and PC02
 
 All gateways has to be configured on the Core switch level
 
- 
+![](pic/alex.png)
