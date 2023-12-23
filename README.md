@@ -5,7 +5,7 @@
 
 ## Case Overview :
   
-` I` - Building two Data centers with basic Architecture, demonstrating how these DCs are providing services to their consumers and how the users will be able to consume the offered services.
+`I` - Building two Data centers with basic Architecture, demonstrating how these DCs are providing services to their consumers and how the users will be able to consume the offered services.
 
 `II` - Those two Data Centers are Private Data Centers owned by One Enterprise "Greenwood Group" and they have their own WAN Connections to connect both Data Centers.
 
