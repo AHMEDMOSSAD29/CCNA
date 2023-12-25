@@ -65,3 +65,6 @@ PC03 should be able to communicate with PC01 and PC02
 All gateways has to be configured on the Core switch level
 
 ![](pic/alex.png)
+
+## solution :
+![](pic/cairo-DC.png)
