@@ -67,4 +67,6 @@ All gateways has to be configured on the Core switch level
 ![](pic/alex.png)
 
 ## solution :
-![](pic/cairo-DC.png) ![](pic/alex-DC.png) 
+![Cairo](pic/cairo-DC.png)
+
+![Alex](pic/Alex-DC.png) 
